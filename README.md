@@ -1,4 +1,4 @@
-# ooc_project
+# ChessGame_project
 
 ## Contributors:
  Xiaohan Yu
